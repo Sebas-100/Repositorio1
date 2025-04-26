@@ -11,3 +11,5 @@ Si quieres contribuir, simplemente haz un fork y crea un pull request.
 veamos si funciona
 
 # Nueva funcionalidad agregada en esta rama.
+# Funcionalidad nueva creada en rama nueva-funcionalidad
+
